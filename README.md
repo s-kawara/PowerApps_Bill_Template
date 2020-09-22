@@ -16,4 +16,4 @@ PowerApps Bill Template(手形管理アプリテンプレート)は、エクセ�
 
 # アプリ説明動画
 
-[![](http://img.youtube.com/vi/GjoRgx2u6bo/0.jpg)](http://www.youtube.com/watch?v=GjoRgx2u6bo "手形管理アプリ")
+[![](http://img.youtube.com/vi/056nXAq4NTo/0.jpg)](http://www.youtube.com/watch?v=056nXAq4NTo "手形管理アプリ")
